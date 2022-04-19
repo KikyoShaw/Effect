@@ -1,0 +1,1 @@
+xcopy /s /e "..\Effect" "%appdata%\ColkWallpaper\Effect\"

@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"StarlayersTunnelEffect_v1.0",
+    "sName":"StarlayersTunnelEffect",
+    "sDesc":"Star Layers Tunnel",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"StarlayersTunnelEffect.dll"
+}

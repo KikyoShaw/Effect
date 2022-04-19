@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"WaterReflectionEffect_v1.0",
+    "sName":"WaterReflection",
+    "sDesc":"倒影特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"WaterReflectionEffect.dll"
+}

@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"SnowflakeEffect_v1.0",
+    "sName":"SnowflakeEffect",
+    "sDesc":"雪花特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"SnowflakeEffect.dll"
+}

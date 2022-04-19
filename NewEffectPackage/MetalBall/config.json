@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"MetalBallEffect_v1.0",
+    "sName":"MetalBallEffect",
+    "sDesc":"Metal Ball",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MetalBallEffect.dll"
+}

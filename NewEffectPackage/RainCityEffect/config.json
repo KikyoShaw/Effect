@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"RainCityEffect_v1.0",
+    "sName":"Rainng For City",
+    "sDesc":"雨中之城",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"RainCityEffect.dll"
+}

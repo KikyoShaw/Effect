@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"Fog2dEffect_v1.0",
+    "sName":"Fog2d10",
+    "sDesc":"烟雾特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"Fog2dEffect.dll"
+}

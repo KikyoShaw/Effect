@@ -1,0 +1,8 @@
+{
+    "sIdentifyKey":"BlackHoleEffect_v1.0",
+    "sName":"BlackHoleEffect",
+    "sDesc":"黑洞特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"BlackHoleEffect.dll"
+}
