@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"StarfieldZoomEffect_v1.0",
+    "sName":"StarfieldZoom",
+    "sDesc":"星域无限缩放",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"StarfieldZoom.dll",
+    "sGroup":"Transform(变形)"
+}

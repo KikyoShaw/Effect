@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainGlassEffect_v1.0",
+    "sName":"RainGlassEffect",
+    "sDesc":"雨中玻璃曲变特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainGlassEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

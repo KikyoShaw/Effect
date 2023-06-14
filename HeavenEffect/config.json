@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"HeavenEffect_v1.0",
+    "sName":"HeavenEffect",
+    "sDesc":"天堂",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"HeavenEffect.dll",
+    "sGroup":"Light(光)"
+}

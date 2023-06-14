@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FireWorkEffect_v1.0",
+    "sName":"FireWork",
+    "sDesc":"烟火特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"FireWorkEffect.dll",
+	"sGroup":"FireWorks(烟花)"
+}

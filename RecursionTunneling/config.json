@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RecursionTunnelingEffect_v1.0",
+    "sName":"Recursion Tunneling",
+    "sDesc":"循环隧道",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RecursionTunnelingEffect.dll",
+    "sGroup":"Transform(变形)"
+}

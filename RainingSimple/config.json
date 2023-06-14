@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainingSimpleEffect_v1.0",
+    "sName":"RainingSimple",
+    "sDesc":"雨[简单]",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainingSimpleEffect.dll",
+	"sGroup":"Rain(雨)"
+}

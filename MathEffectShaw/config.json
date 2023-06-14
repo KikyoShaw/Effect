@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"MathEffectShaw_v1.0",
+    "sName":"MathEffectShaw",
+    "sDesc":"公式特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MathEffectShaw.dll",
+	"sGroup":"Overlay(叠加)"
+}

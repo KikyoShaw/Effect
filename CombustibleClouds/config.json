@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CombustibleCloudsEffect_v1.0",
+    "sName":"CombustibleCloudsEffect",
+    "sDesc":"云涌特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"CombustibleCloudsEffect.dll",
+	"sGroup":"CloudFog(云雾)"
+}

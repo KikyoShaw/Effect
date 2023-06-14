@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SimpleSnowEffect_v1.0",
+    "sName":"SimpleSnow",
+    "sDesc":"下雪特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SimpleSnowEffect.dll",
+	"sGroup":"Snow(雪)"
+}

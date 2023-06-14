@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SoapBubblesEffect_v1.0",
+    "sName":"SoapBubblesEffect",
+    "sDesc":"泡沫特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"SoapBubblesEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

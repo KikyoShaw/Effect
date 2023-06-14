@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SparksFromFire_v1.0",
+    "sName":"Sparks From Fire",
+    "sDesc":"火花特效.",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"SparksFromFire.dll",
+	"sGroup":"Fire(火)"
+}

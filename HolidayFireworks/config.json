@@ -1,0 +1,9 @@
+{
+  "sIdentifyKey": "HolidayFireworksEffect_v1.0",
+  "sName": "HolidayFireworks",
+  "sDesc": "节日烟火特效",
+  "sThumbPicName": "Thumb.jpg",
+  "iOverheadLevel": 1,
+  "sModelName": "HolidayFireworksEffect.dll",
+  "sGroup": "FireWorks(烟花)"
+}

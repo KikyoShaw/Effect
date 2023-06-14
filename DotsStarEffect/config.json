@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"DotsStarEffect_v1.0",
+    "sName":"DotsStarEffect",
+    "sDesc":"星星特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"DotsStarEffect.dll",
+    "sGroup":"Overlay(叠加)",
+}

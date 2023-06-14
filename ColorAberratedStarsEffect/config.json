@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"ColorAberratedStarsEffect_v1.0",
+    "sName":"ColorAberratedStarsEffect",
+    "sDesc":"星际穿越(色差)特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"ColorAberratedStarsEffect.dll",
+    "sGroup":"SpaceTravel(星际旅行)"
+}

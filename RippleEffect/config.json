@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RippleEffectModule_v1.0",
+    "sName":"RippleEffect",
+    "sDesc":"波纹特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RippleEffectModule.dll",
+	"sGroup":"Water(水)"
+}

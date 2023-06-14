@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SakuraEffect_v1.0",
+    "sName":"SakuraEffect",
+    "sDesc":"樱花特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"SakuraEffect.dll",
+	"sGroup":"Overlay(叠加)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"JustShowEffect_v1.0",
+    "sName":"JustShowEffect",
+    "sDesc":"落雪/[落花]特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"JustShowEffect.dll",
+	"sGroup":"Snow(雪)"
+}

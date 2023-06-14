@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RedMagicCircleEffectShaw_v1.0",
+    "sName":"RedMagicCircleEffectShaw",
+    "sDesc":"红之魔法阵特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RedMagicCircleEffectShaw.dll",
+	"sGroup":"Overlay(叠加)"
+}

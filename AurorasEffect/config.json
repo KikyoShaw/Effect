@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"AurorasEffect_v1.0",
+    "sName":"AurorasEffect",
+    "sDesc":"极光特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"AurorasEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"VolumetricFireEffect_v1.0",
+    "sName":"VolumetricFireEffect",
+    "sDesc":"火焰特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"VolumetricFireEffect.dll",
+	"sGroup":"Fire(火)"
+}

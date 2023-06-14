@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"DreamingAboutCloudsEffect_v1.0",
+    "sName":"DreamingAboutCloudsEffect",
+    "sDesc":"云海特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"DreamingAboutCloudsEffect.dll",
+	"sGroup":"CloudFog(云雾)",
+}

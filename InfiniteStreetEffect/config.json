@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"InfiniteStreetEffect_v1.0",
+    "sName":"InfiniteStreetEffect",
+    "sDesc":"无限街道特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"InfiniteStreetEffect.dll",
+    "sGroup":"Transform(变形)"
+}

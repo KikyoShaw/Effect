@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"MetaBubbleEffect_v1.0",
+    "sName":"MetaBubbleEffect",
+    "sDesc":"泡泡特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MetaBubbleEffect.dll",
+    "sGroup":"Overlay(叠加)",
+}

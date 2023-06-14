@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CrossfadeDistEffect_v1.0",
+    "sName":"CrossfadeDistEffect",
+    "sDesc":"渐变扭曲特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"CrossfadeDistEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

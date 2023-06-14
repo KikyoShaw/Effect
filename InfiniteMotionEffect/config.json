@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"InfiniteMotionEffect_v1.0",
+    "sName":"InfiniteMotionEffect",
+    "sDesc":"无限扭曲特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"InfiniteMotionEffect.dll",
+    "sGroup":"Transform(变形)"
+}

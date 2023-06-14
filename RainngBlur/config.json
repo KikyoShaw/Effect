@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainingBlurEffect_v1.0",
+    "sName":"RainingBlurEffect",
+    "sDesc":"雨[模糊]",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainingBlurEffect.dll",
+	"sGroup":"Rain(雨)"
+}

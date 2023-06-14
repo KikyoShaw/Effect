@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FireRemix_v1.0",
+    "sName":"FireReMix30",
+    "sDesc":"火浪特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FireRemix.dll",
+	"sGroup":"Fire(火)"
+}

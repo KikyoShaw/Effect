@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LensingEffect_v1.0",
+    "sName":"LensingEffect",
+    "sDesc":"星巢透镜特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LensingEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

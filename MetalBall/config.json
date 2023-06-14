@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"MetalBallEffect_v1.0",
+    "sName":"MetalBallEffect",
+    "sDesc":"球形特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MetalBallEffect.dll",
+    "sGroup":"Transform(变形)"
+}

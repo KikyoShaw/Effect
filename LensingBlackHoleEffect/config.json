@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LensingBlackHoleEffect_v1.0",
+    "sName":"LensingBlackHoleEffect",
+    "sDesc":"星巢黑洞特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LensingBlackHoleEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

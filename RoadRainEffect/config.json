@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RoadRainEffect_v1.0",
+    "sName":"RoadRainEffect",
+    "sDesc":"灯光雨夜公路",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"RoadRainEffect.dll",
+	"sGroup":"Rain(雨)"
+}

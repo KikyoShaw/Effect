@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"HeatDistortionEffect_v1.0",
+    "sName":"HeatDistortionEffect",
+    "sDesc":"热曲变特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"HeatDistortionEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

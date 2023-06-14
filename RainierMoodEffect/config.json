@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainierMoodEffect_v1.0",
+    "sName":"RainierMoodEffect",
+    "sDesc":"雨点特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainierMoodEffect.dll",
+	"sGroup":"Rain(雨)"
+}

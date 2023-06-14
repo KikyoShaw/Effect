@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RippleWaterEffect_v1.0",
+    "sName":"RippleWaterEffect",
+    "sDesc":"水波扭曲特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"RippleWaterEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

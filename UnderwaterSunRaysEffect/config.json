@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"UnderwaterSunRaysEffect_v1.0",
+    "sName":"UnderwaterSunRaysEffect",
+    "sDesc":"水下阳光特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":2,
+    "sModelName":"UnderwaterSunRaysEffect.dll",
+	"sGroup":"Water(水)"
+}

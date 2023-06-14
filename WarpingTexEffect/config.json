@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"WarpingTexEffect_v1.0",
+    "sName":"WarpingTexEffect",
+    "sDesc":"扭曲(纹理)特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"WarpingTexEffect.dll",
+    "sGroup":" Distortion(扭曲)"
+}

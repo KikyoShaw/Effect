@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SimplicityGalaxyEffect_v1.0",
+    "sName":"SimplicityGalaxyEffect",
+    "sDesc":"宇宙星光特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SimplicityGalaxyEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

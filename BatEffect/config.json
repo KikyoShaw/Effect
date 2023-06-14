@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"BatEffect_v1.0",
+    "sName":"BatEffect",
+    "sDesc":"蝙蝠特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"BatEffect.dll",
+	"sGroup":"Overlay(叠加)"
+}

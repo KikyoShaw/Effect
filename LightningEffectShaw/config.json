@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LightningEffectShaw_v1.0",
+    "sName":"LightningEffectShaw",
+    "sDesc":"闪电特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LightningEffectShaw.dll",
+	"sGroup":"Overlay(叠加)"
+}

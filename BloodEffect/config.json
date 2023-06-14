@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"BloodEffect_v1.0",
+    "sName":"BloodEffect",
+    "sDesc":"血流特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"BloodEffect.dll",
+	"sGroup":"Overlay(叠加)"
+}

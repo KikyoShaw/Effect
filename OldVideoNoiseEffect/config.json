@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"OldVideoNoiseEffect_v1.0",
+    "sName":"OldVideoNoiseEffect",
+    "sDesc":"旧电影特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"OldVideoNoiseEffect.dll",
+    "sGroup":"OldTv(旧电视)"
+}

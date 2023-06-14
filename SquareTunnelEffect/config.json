@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SquareTunnelEffect_v1.0",
+    "sName":"SquareTunnelEffect",
+    "sDesc":"图片隧道",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SquareTunnelEffect.dll",
+    "sGroup":"Transform(变形)"
+}

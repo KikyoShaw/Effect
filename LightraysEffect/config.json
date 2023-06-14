@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LightraysEffect_v1.0",
+    "sName":"LightraysEffect",
+    "sDesc":"光线特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LightraysEffect.dll",
+    "sGroup":"Light(光)"
+}

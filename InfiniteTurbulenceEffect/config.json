@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"InfiniteTurbulenceEffect_v1.0",
+    "sName":"InfiniteTurbulenceEffect",
+    "sDesc":"气流特效(类似海市蜃楼)",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":0,
+    "sModelName":"InfiniteTurbulenceEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

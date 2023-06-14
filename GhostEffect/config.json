@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"GhostEffect_v1.0",
+    "sName":"GhostEffect",
+    "sDesc":"幽灵特效",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"GhostEffect.dll",
+	"sGroup":"Overlay(叠加)"
+}

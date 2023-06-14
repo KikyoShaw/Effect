@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"StarNestEffect_v1.0",
+    "sName":"StarNestEffect",
+    "sDesc":"星巢特效",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"StarNestEffect.dll",
+	"sGroup":"Galaxy(宇宙)"
+}

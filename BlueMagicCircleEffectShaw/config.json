@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"BlueMagicCircleEffectShaw_v1.0",
+    "sName":"BlueMagicCircleEffect",
+    "sDesc":"蓝色魔法阵",
+    "sThumbPicName":"thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"BlueMagicCircleEffectShaw.dll",
+	"sGroup":"Overlay(叠加)"
+}
