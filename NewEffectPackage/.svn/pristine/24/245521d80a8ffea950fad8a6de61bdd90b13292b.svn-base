@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"DomainWarpingEffect_v1.0",
-    "sName":"DomainWarpingEffect",
-    "sDesc":"烟雾特效",
-    "sThumbPicName":"Thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"DomainWarpingEffect.dll"
-}

@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"WaterSurfaceEffect_v1.0",
-    "sName":"WaterSurfaceEffect",
-    "sDesc":"水镜特效",
-    "sThumbPicName":"Thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"WaterSurfaceEffect.dll"
-}

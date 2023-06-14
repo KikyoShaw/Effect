@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"StarfieldEffect_v1.0",
-    "sName":"StarfieldEffect",
-    "sDesc":"星际穿越",
-    "sThumbPicName":"Thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"StarfieldEffect.dll"
-}

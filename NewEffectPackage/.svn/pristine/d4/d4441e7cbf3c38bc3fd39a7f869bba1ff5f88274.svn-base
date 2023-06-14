@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"RainingEffect_v1.0",
-    "sName":"RainingEffect",
-    "sDesc":"雨中特效",
-    "sThumbPicName":"Thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"RainingEffect.dll"
-}

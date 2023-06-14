@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"GoldFishTankEffect_v1.0",
-    "sName":"GoldFishTankEffect",
-    "sDesc":"金鱼缸",
-    "sThumbPicName":"thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"GoldFishTankEffect.dll"
-}

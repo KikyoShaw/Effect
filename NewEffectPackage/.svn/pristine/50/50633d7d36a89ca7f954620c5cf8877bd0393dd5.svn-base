@@ -1,8 +1,0 @@
-{
-    "sIdentifyKey":"FlowingWaterEffectModule_v1.0",
-    "sName":"FlowingWaterEffect",
-    "sDesc":"流水特效",
-    "sThumbPicName":"Thumb.jpg",
-    "iOverheadLevel":1,
-    "sModelName":"FlowingWaterEffectModule.dll"
-}
